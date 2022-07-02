@@ -1,10 +1,11 @@
 .container{
-    margin-left: 15px;
-    height: 25px;
+    margin-left: 10px;
+    height: 27px;
     margin-top: 8px;
     background-color: #FFF;
     color: #C0C0C0;
     border-radius: 20px;
+    flex-wrap: wrap;
     
     border: 1px solid #C0C0C0;
 }
